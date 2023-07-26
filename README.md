@@ -17,3 +17,15 @@ The files in this repository includes the following:
 * data.csv
 
   This is the data that was scraped
+
+## Packages used
+
+I used the following packages in this project:
+* selenium
+* webdriver_manager
+* bs4
+* numpy
+* pandas
+* matplotlib
+* seaborn
+* sklearn
